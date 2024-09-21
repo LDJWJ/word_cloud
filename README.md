@@ -27,7 +27,9 @@ The code is tested against Python 2.7, 3.4, 3.5, 3.6 and 3.7.
 If you are using pip:
 
     pip install wordcloud
-
+```
+pip install wordcloud
+```
 If you are using conda, you can install from the `conda-forge` channel:
 
     conda install -c conda-forge wordcloud
